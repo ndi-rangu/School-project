@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327191622812",
+    "project_id": "finalproject-dc8ed",
+    "storage_bucket": "finalproject-dc8ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327191622812:android:36a4fa4f28b7ba500fe959",
+        "android_client_info": {
+          "package_name": "com.example.bakaki_matatu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327191622812-c28r3vf3v26tr8v8nc6cq4j562ikjd2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-jrniBc-zgA72soSpqVG-5IP7dS-RG5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327191622812-c28r3vf3v26tr8v8nc6cq4j562ikjd2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
